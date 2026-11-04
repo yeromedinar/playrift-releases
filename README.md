@@ -25,13 +25,19 @@ game: they see it, hear it, and press buttons on a virtual Xbox controller
 plugged into your PC.
 
 If they have a controller, they connect it to their phone or computer and
-it just works. If they don't, touch controls show up on the screen.
+it just works, rumble included. If they don't, touch controls show up on
+their phone. On a computer, you can give them keyboard and mouse instead.
+
+Each friend gets the sharpest picture their screen can show: up to 1440p
+or 4K on your home network, if you pick it in Settings.
 
 ## You stay in control of your PC
 
 - Nobody plays until you accept them, one by one.
-- Guests get a game controller and nothing else. No keyboard, no mouse, no
-  files.
+- Guests get a game controller and nothing else: no files, nothing outside
+  the game. Keyboard and mouse only if you give them to that friend, only
+  while you share a game and the game is in front, and system shortcuts
+  (Alt+Tab, Alt+F4, the Windows key) never reach your PC.
 - Only the game window is shared, not your whole screen, and only the game's
   sound (so your Discord call stays yours).
 - You can kick whoever is playing from the panel, and stop sharing from the
@@ -46,8 +52,8 @@ it just works. If they don't, touch controls show up on the screen.
 **On your PC (the host)**
 
 - Windows 10 or 11, 64-bit.
-- An AMD Radeon graphics card. Playrift uses AMD's hardware encoder for now;
-  NVIDIA and Intel aren't supported yet.
+- An AMD Radeon or NVIDIA GeForce graphics card. Playrift uses their
+  hardware encoders; Intel isn't supported yet.
 - A good upload speed. Playrift lowers the quality on its own when the
   connection can't keep up, but the faster your upload, the better your
   friend sees the game.
@@ -55,6 +61,7 @@ it just works. If they don't, touch controls show up on the screen.
 **For your friend (the guest)**
 
 - A recent browser: Chrome, Edge or Safari, on a phone, a computer or a TV.
+  On a computer, Chrome or Edge works best with a controller.
 - A controller is nice to have, not required.
 
 For now, one friend plays at a time.
